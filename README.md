@@ -1,2 +1,4 @@
 # My-resume
-Its a very basic HTML CSS
+It is created with very basic HTML and CSS code.
+
+
